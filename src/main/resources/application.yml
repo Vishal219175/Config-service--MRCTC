@@ -8,5 +8,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/rakeshmahajan9657/crud
+          uri: https://github.com/Vishal219175/Config-service--MRCTC
           clone-on-start: true
